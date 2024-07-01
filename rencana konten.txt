@@ -10,7 +10,6 @@ Rencana Konten Data Science
 ^ Dasar PBO
 ^ Kelas
 ^ Atribut dan Fungsi
-* Struktur Data
 - EDA
 - Machine Learning 
 - Deep Learning
