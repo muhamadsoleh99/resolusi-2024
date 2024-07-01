@@ -10,7 +10,9 @@ Rencana Konten Data Science
  ^ Variable
  ^ Fungsi 
 * Python PBO
-* Struktur Data
+^ Dasar PBO
+^ Kelas
+^ Atribut dan Fungsi
 - EDA
 - Machine Learning 
 - Deep Learning
