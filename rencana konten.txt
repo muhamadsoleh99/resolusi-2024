@@ -1,0 +1,12 @@
+Rencana Konten Data Science
+
+- Intro To Data Science
+- Matematika
+- Statistika
+- Econometrics
+- Coding
+- EDA
+- Machine Learning 
+- Deep Learning
+- Deployment
+- Keep Learning
