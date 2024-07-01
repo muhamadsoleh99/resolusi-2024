@@ -5,6 +5,9 @@ Rencana Konten Data Science
 - Statistika
 - Econometrics
 - Coding
+* Python Dasar
+* Python PBO
+* Struktur Data
 - EDA
 - Machine Learning 
 - Deep Learning
