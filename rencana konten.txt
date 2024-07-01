@@ -1,0 +1,15 @@
+Rencana Konten Data Science
+
+- Intro To Data Science
+- Matematika
+- Statistika
+- Econometrics
+- Coding
+* Python Dasar
+* Python PBO
+* Struktur Data
+- EDA
+- Machine Learning 
+- Deep Learning
+- Deployment
+- Keep Learning
