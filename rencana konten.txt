@@ -6,6 +6,8 @@ Rencana Konten Data Science
 - Econometrics
 - Coding
 * Python Dasar
+^ Aku 
+^ Kamu
 * Python PBO
 ^ Dasar PBO
 ^ Kelas
