@@ -7,6 +7,9 @@ Rencana Konten Data Science
 - Coding
 * Python Dasar
 * Python PBO
+^ Dasar PBO
+^ Kelas
+^ Atribut dan Fungsi
 * Struktur Data
 - EDA
 - Machine Learning 
